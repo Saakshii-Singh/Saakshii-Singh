@@ -18,9 +18,7 @@ I am a passionate **Frontend & Fullstack Web Developer** with a keen eye for mod
 - ⚡ Fun fact: Code is digital art—turning clean logic into memorable user experiences!
 
 <div align="center">
-
-![Aesthetic Animated Developer](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif)
-
+  <img src="https://github.com/user-attachments/assets/2aef210c-cabf-4e84-8233-89ecd14f0d4b" alt="Aesthetic Animated Developer" width="60%" />
 </div>
 
 ---
@@ -138,12 +136,9 @@ Here are a few repositories that showcase my development journey and what I love
   <a href="mailto:sakshisingh25012005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile-username">
+  <a href="https://www.linkedin.com/in/sakshi-singh-445a992ab/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br>
-<div align="center">
-  <sub>Generated with 💜 by Antigravity</sub>
-</div>
