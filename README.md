@@ -1,7 +1,8 @@
-<!-- File: README.md -->
 <div align="center">
-  <!-- Custom SVG Banner -->
-  <img src="banner.svg" alt="Sakshi's Header Banner" width="100%" />
+
+#  Sakshi Singh
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=34&duration=2500&pause=1000&color=c084fc&center=true&vCenter=true&width=800&height=70&lines=Hi+there!+I'm+Sakshi+👋;Frontend+%26+Fullstack+Developer;Turning+ideas+into+interactive+UIs" alt="Typing SVG" /></a>
+
 </div>
 
 <br>
@@ -20,8 +21,8 @@
     </td>
     <td valign="top" width="5%"></td>
     <td valign="top" width="40%" align="center">
-      <!-- Aesthetic Animated Coder Graphic -->
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/giffs/webdev.gif" alt="Aesthetic Animated Developer" width="100%" />
+      <!-- High-Quality Stable Coder Animation -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" alt="Aesthetic Animated Developer" width="100%" />
     </td>
   </tr>
 </table>
