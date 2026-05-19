@@ -8,24 +8,20 @@
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="55%">
-      <h3>✨ About Me</h3>
-      <p>I am a passionate <b>Frontend & Fullstack Web Developer</b> with a keen eye for modern, vibrant designs and robust architectures. I specialize in building highly responsive, pixel-perfect user interfaces and love expanding my problem-solving toolkit every day.</p>
-      <ul>
-        <li>🌱 Currently leveling up my skills in <b>Data Structures & Algorithms (DSA)</b>.</li>
-        <li>💻 Crafting rich web apps using <b>TypeScript</b>, <b>React</b>, and <b>Node.js</b>.</li>
-        <li>💡 Strong advocate for clean code, responsive layouts, and user-centric UX.</li>
-        <li>⚡ Fun fact: Code is digital art—turning clean logic into memorable user experiences!</li>
-      </ul>
-    </td>
-    <td valign="top" width="5%"></td>
-    <td valign="top" width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" alt="Aesthetic Animated Developer" width="100%" />
-    </td>
-  </tr>
-</table>
+### ✨ About Me
+
+I am a passionate **Frontend & Fullstack Web Developer** with a keen eye for modern, vibrant designs and robust architectures. I specialize in building highly responsive, pixel-perfect user interfaces and love expanding my problem-solving toolkit every day.
+
+- 🌱 Currently leveling up my skills in **Data Structures & Algorithms (DSA)**.
+- 💻 Crafting rich web apps using **TypeScript**, **React**, and **Node.js**.
+- 💡 Strong advocate for clean code, responsive layouts, and user-centric UX.
+- ⚡ Fun fact: Code is digital art—turning clean logic into memorable user experiences!
+
+<div align="center">
+
+![Aesthetic Animated Developer](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif)
+
+</div>
 
 ---
 
