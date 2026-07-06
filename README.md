@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=c084fc&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Sakshi+👋;Frontend+%26+Fullstack+Developer;Turning+ideas+into+interactive+UIs)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/normal-badge.svg?key=Saakshii-Singh&color=c084fc&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
 </div>
 
 <br>
@@ -95,12 +97,12 @@ Here are a few repositories that showcase my development journey and what I love
     <tr align="center">
       <td>
         <a href="https://github.com/Saakshii-Singh">
-          <img src="https://github-readme-stats.vercel.app/api?username=Saakshii-Singh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Sakshi's GitHub Stats" height="195" />
+          <img src="https://github-stats-extended.vercel.app/api?username=Saakshii-Singh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="Sakshi's GitHub Stats" height="195" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Saakshii-Singh">
-          <img src="https://streak-stats.demolab.com/?user=Saakshii-Singh&theme=tokyonight&hide_border=false" alt="Sakshi's GitHub Streak" height="195" />
+          <img src="https://streak-stats.demolab.com/?user=Saakshii-Singh&theme=tokyonight&hide_border=false&v=1" alt="Sakshi's GitHub Streak" height="195" />
         </a>
       </td>
     </tr>
@@ -108,7 +110,7 @@ Here are a few repositories that showcase my development journey and what I love
       <td colspan="2">
         <br>
         <a href="https://github.com/Saakshii-Singh">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saakshii-Singh&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Sakshi's Top Languages" height="195" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saakshii-Singh&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&v=1" alt="Sakshi's Top Languages" height="195" />
         </a>
       </td>
     </tr>
