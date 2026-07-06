@@ -26,31 +26,29 @@ I am a passionate **Frontend & Fullstack Web Developer** with a keen eye for mod
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="33%" valign="top">
-        <b>💻 Languages</b><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </td>
-      <td width="33%" valign="top">
-        <b>🚀 Frameworks & Tools</b><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /><br>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /><br>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-      </td>
-      <td width="34%" valign="top">
-        <b>🔧 Ecosystem & Workflow</b><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /><br>
-        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-      </td>
-    </tr>
-  </table>
+  
+#### 💻 Languages & Markup
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<br>
+
+#### 🚀 Frameworks & Libraries
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> &nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> &nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> &nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+
+<br>
+
+#### 🔧 Tools & Ecosystem
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> &nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> &nbsp;
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> &nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+
 </div>
 
 ---
@@ -90,6 +88,35 @@ Here are a few repositories that showcase my development journey and what I love
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr align="center">
+      <td>
+        <a href="https://github.com/Saakshii-Singh">
+          <img src="https://github-readme-stats.vercel.app/api?username=Saakshii-Singh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Sakshi's GitHub Stats" height="195" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Saakshii-Singh">
+          <img src="https://streak-stats.demolab.com/?user=Saakshii-Singh&theme=tokyonight&hide_border=false" alt="Sakshi's GitHub Streak" height="195" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <br>
+        <a href="https://github.com/Saakshii-Singh">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saakshii-Singh&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Sakshi's Top Languages" height="195" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🎮 Contribution Snake
 
 <div align="center">
@@ -102,43 +129,16 @@ Here are a few repositories that showcase my development journey and what I love
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Saakshii-Singh">
-          <img src="https://github-readme-stats.vercel.app/api?username=Saakshii-Singh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Sakshi's GitHub Stats" height="195" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Saakshii-Singh">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saakshii-Singh&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Sakshi's Top Languages" height="195" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <a href="https://github.com/Saakshii-Singh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saakshii-Singh&theme=tokyonight&hide_border=false" alt="Sakshi's GitHub Streak" />
-  </a>
-</div>
-
----
-
 ### 🤝 Let's Connect!
 
 <div align="center">
   <a href="https://github.com/Saakshii-Singh">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  </a> &nbsp;
   <a href="mailto:sakshisingh25012005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  </a> &nbsp;
   <a href="https://www.linkedin.com/in/sakshi-singh-445a992ab/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<br>
